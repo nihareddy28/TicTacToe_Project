@@ -13,6 +13,7 @@ A simple, interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Pla
 
 🚫 Disables boxes after a move to prevent overwriting
 
+
 🛠️ Technologies Used
 
 HTML5 – Structure
